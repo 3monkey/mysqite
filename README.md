@@ -1,0 +1,2 @@
+# mysqite
+Django Project
