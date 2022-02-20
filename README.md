@@ -1,2 +1,2 @@
-# mysqite
+# mysite
 Django Project
